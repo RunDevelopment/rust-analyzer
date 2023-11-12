@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Alignment","Count","DebugHex","ParseMode","Piece","Position","Sign","Suggestion"],"struct":["Argument","FormatSpec","InnerSpan","InnerWidthMapping","ParseError","Parser"]};

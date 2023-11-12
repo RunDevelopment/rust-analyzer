@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["is_raw_identifier","path_to_string_stripping_turbo_fish"]};

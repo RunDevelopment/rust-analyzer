@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CURRENT_API_VERSION","ENCODE_CLOSE_SPAN_VERSION","NO_VERSION_CHECK_VERSION","VERSION_CHECK_VERSION"],"enum":["Request","Response"],"struct":["ExpandMacro","FlatTree","PanicMessage"],"trait":["Message"]};

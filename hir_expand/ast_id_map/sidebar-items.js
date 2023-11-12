@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["AstIdMap","FileAstId"],"trait":["AstIdNode"],"type":["ErasedFileAstId"]};

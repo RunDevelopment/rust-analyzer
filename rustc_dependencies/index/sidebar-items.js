@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":["static_assert_size"],"struct":["IndexSlice","IndexVec"],"trait":["Idx"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ReferenceCategory"],"struct":["FileReference","FindUsages","SearchScope","UsageSearchResult"]};
